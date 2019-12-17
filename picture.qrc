@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/userlogin.png</file>
+        <file>picture/login_sure.png</file>
+        <file>picture/contrl.png</file>
+        <file>picture/device_view.png</file>
+        <file>picture/log.png</file>
+        <file>picture/setting.png</file>
+        <file>picture/title.png</file>
+        <file>picture/online.png</file>
+        <file>picture/outline.png</file>
+    </qresource>
+</RCC>
